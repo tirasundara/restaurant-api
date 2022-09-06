@@ -37,6 +37,7 @@ gem "bootsnap", require: false
 gem "rack-cors"
 
 gem "phonelib"
+gem "jsonapi-serializer"
 
 group :development, :test do
   gem "rspec-rails"

@@ -33,3 +33,4 @@ en:
   hello: "Hello world"
   error:
     invalid_email: "invalid email"
+    not_found: "resource does not exist"
