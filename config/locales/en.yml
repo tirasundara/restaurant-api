@@ -31,3 +31,5 @@
 
 en:
   hello: "Hello world"
+  error:
+    invalid_email: "invalid email"
